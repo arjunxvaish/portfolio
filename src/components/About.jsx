@@ -45,7 +45,7 @@ const About = () => {
           I’m a junior studying Electrical and Computer Engineering at The University of Washington, Seattle, where I’m
           passionate about transforming ideas into captivating digital experiences. I have a strong proficiency in JavaScript
           and love working with technologies like React, Three.js, and Node.js to create interactive and visually stunning
-          applications. When I’m not coding, you can find me trading options, hitting the gym, or watching Max Verstappen win yet another race."
+          applications. When I’m not coding, you can find me trading options, hitting the gym, or watching Max Verstappen win yet another race.
         </motion.p>
 
         {/* Project Card */}

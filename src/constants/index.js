@@ -154,13 +154,15 @@ import {
     },
   
     {
-      title: "VP Of Administration & Operations",
+      title: "Chief Trading Officer",
       company_name: "Algorithmic Trading Club at UW",
       icon: meta,
       iconBg: "#E6DEDD",
       date: "Mar 2024 - Present",
       points: [
-        "Developed a dynamic website utilizing three.js, React3F, and JavaScript to facilitate option strategies, aimed at maximizing the Sharpe ratio for improved risk-adjusted returns.",
+        "Secured a strategic industry partnership with QuantConnect; organized guest talks with professionals from Jane Street on probability theory, high-frequency trading strategies, and market making.",
+        "Manage a $10,000 long/short equity portfolio utilizing leveraged options strategies (2:1 spreads) to optimize low-risk, high-reward trades while maintaining low-beta exposure.",
+        "Lead portfolio rebalancing and fund allocation decisions, ensuring alignment with the club's investment mandate and risk management protocols.",
         "Designed and implemented a profitable trading algorithm, rigorously backtested with QuantConnect and MultiCharts for optimal performance across market conditions.",
       ],
     },
